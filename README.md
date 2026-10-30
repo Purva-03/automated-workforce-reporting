@@ -45,8 +45,6 @@ Provides a high-level view of workforce size and monthly headcount trends.
 <img width="1158" height="657" alt="Screenshot 2026-10-29 160514" src="https://github.com/user-attachments/assets/02cf3028-2149-4b5e-be87-a687f73bafa2" />
 
 
-*Add your Workforce Overview Power BI screenshot to the `screenshots` folder and name it `workforce-overview.png`.*
-
 ### 2. Hires and Attrition Analysis
 
 Examines employee movements and workforce attrition over time.
@@ -62,8 +60,6 @@ Examines employee movements and workforce attrition over time.
 <img width="1165" height="650" alt="Screenshot 2026-10-29 160531" src="https://github.com/user-attachments/assets/1902c350-8d9c-43ba-bbed-c0cb0868fd2c" />
 
 
-*Add your Hires & Attrition Power BI screenshot to the `screenshots` folder and name it `hires-attrition.png`.*
-
 ### 3. Data Quality Dashboard
 
 Highlights data completeness and validation results to support reliable reporting.
@@ -78,8 +74,6 @@ Highlights data completeness and validation results to support reliable reportin
 ![Data Quality Dashboard]
 <img width="1163" height="657" alt="Screenshot 2026-10-29 160547" src="https://github.com/user-attachments/assets/7ee6977c-d664-4570-908c-5ad4c06b70c0" />
 
-
-*Add your Data Quality Power BI screenshot to the `screenshots` folder and name it `data-quality.png`.*
 
 ## ⚙️ Python Automation Workflow
 
@@ -111,11 +105,9 @@ automated-workforce-reporting/
 │   └── data-quality.png
 │
 ├── README.md
-├── requirements.txt
 └── .gitignore
 ```
 
-*The screenshots folder and `requirements.txt` should be added to the repository. Update the structure if your actual filenames differ.*
 
 ## 🔍 Data Quality Checks
 
