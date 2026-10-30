@@ -1,0 +1,21 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Keep employee data and generated reports private
+data/
+reports/
+*.csv
+*.xlsx
+*.pbix
+
+# Local configuration
+.env
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
